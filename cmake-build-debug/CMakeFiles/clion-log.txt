@@ -1,0 +1,5 @@
+/home/ruwieder/programs/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ruwieder/CLionProjects/untitled
+-- Found SFML 2.5.1 in /usr/lib/x86_64-linux-gnu/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ruwieder/CLionProjects/untitled/cmake-build-debug
