@@ -4,27 +4,27 @@ CPU-based RayTracing app (yea another one)
 
 Currently done:
 
-  Raw multithreading calculation
+--Raw multithreading calculation
   
-  finding intersection coordinates in one step using a lot of vector math
+--finding intersection coordinates in one step using a lot of vector math
   
-  some basic optimization (like several simple checks of intersection before actually calculate it)
+--some basic optimization (like several simple checks of intersection before actually calculate it)
   
 In the work:
 
-  auto BVH generating
+--auto BVH generating
   
 TODO:
 
-  actually lightning system (at this moment color based on distance to camera)
+--actually lightning system (at this moment color based on distance to camera)
   
-  postprocessing
+--postprocessing
   
-  more primitive types (not only sphere and plane)
+--more primitive types (not only sphere and plane)
   
 After all of this:
 
-  Moving to GPU calculation (CUDA/OpenGL/OpenCL/Vulcan)
+--Moving to GPU calculation (CUDA/OpenGL/OpenCL/Vulcan)
   
-  In-app scene redactor (wtf rtx-based game-engine??)
+--In-app scene redactor (wtf rtx-based game-engine??)
   
